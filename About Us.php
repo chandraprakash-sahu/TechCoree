@@ -18,7 +18,7 @@ include("conn.php");
 	
 				<!-- navbar - start -->
 		
-		<nav class="nav21">
+			<nav class="nav21">
 				<div class="nav-logo21">
 						<p><a href="index.php">TechCore</a></p>
 				</div>
