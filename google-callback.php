@@ -8,9 +8,9 @@ if (!isset($_GET['code'])) {
 }
 
 /* GOOGLE CONFIG */
-$client_id = "201016551854-33mo04fuh99o864u0ge043shcp1debap.apps.googleusercontent.com";
-$client_secret = "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";
-$redirect_uri = "http://localhost/WEBSITES/TechCoree/google-callback.php";
+$client_id = "";
+$client_secret = ";
+$redirect_uri = "";
 
 /* STEP 1: GET ACCESS TOKEN */
 $token_url = "https://oauth2.googleapis.com/token";
